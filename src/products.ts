@@ -11,7 +11,7 @@ export function productsListComponent() {
 
   productsList.forEach((product) => {
     const listItem = document.createElement("li");
-    listItem.textContent = `${product.title} - $${product.price}`;
+    listItem.textContent = `${product.title} - $${product.price} COP`;
     list.appendChild(listItem);
   });
 
