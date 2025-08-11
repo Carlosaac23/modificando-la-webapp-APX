@@ -6,7 +6,7 @@
   },
   {
     "id": 2,
-    "title": "Coca Cola 2L",
+    "title": "Coca Cola",
     "price": 5000
   },
   {
@@ -38,5 +38,15 @@
     "id": 8,
     "title": "Pinguino",
     "price": 2200
+  },
+  {
+    "id": 9,
+    "title": "Pan de queso",
+    "price": 1000
+  },
+  {
+    "id": 10,
+    "title": "Choclitos",
+    "price": 1800
   }
 ]
